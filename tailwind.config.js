@@ -11,5 +11,5 @@ export default {
       },
     },
   },
-  plugins: [tailwindcssScrollbar],
+  plugins: [],
 };
